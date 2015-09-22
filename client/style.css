@@ -90,7 +90,7 @@ div.youtube {
 /********** Landing **********/
 
 body.landing {
-  background-image: url('app/assets/6475901681_488cd406f3_b.jpg');
+  background-image: url('app/assets/homepage.jpg');
   background-size: cover;
 }
 
@@ -104,7 +104,7 @@ body.landing {
   border: none;
 }
 #landing h1, .landing-heading {
-  color: #ffffff;
+  color: #002d53;
 }
 
 #signup, #login {
@@ -639,7 +639,8 @@ svg g.innerChart {
 
 .bullet .title { 
   display: block;
-  font-size: 14px; font-weight: bold; 
+  font-size: 14px; 
+  font-weight: bold; 
 }
 
 #commBulletChart .bullet {
