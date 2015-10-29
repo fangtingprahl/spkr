@@ -1,7 +1,7 @@
 [![Stories in Ready](https://badge.waffle.io/glorypod/spkr.png?label=ready&title=Ready)](https://waffle.io/glorypod/spkr)
 # SPKR
 
-  > Designed for people who need to speak in front of large groups often, SPKR allows presenters to continuously improve on their public speaking skills.
+  > Designed for people who need to speak in front of large groups often, SPKR allows presenters to continuously improve on their public speaking skills. 
 
 
 ## Table of Contents
