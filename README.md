@@ -26,9 +26,9 @@ Once logged in, presenters will be able to track their overall rating on a speci
 
 ## Team
 
-  - __Product Owner__: gato-gordo
-  - __Scrum Master__: sdxl
-  - __Development Team Members__: ematsusaka, trsreagan3, vahagnst 
+  - __Product Owner__: juan
+  - __Scrum Master__: fangtingprahl
+  - __Development Team Members__: ematsusaka, trsreagan3, vahagnst, gato-gordo, sdxl 
   
 ## Requirements
 - MongoDB
